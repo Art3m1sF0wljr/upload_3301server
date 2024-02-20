@@ -1,4 +1,5 @@
 #for linux<br>
+tor<br>
 xxd -p file.asd > dump.txt<br>
 cat dump.txt | python3 script_tor.py<br>
 
